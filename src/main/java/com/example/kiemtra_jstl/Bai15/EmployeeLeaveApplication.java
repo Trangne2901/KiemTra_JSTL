@@ -13,7 +13,6 @@ public class EmployeeLeaveApplication {
         this.status = status;
     }
 
-    // Getters and Setters
     public String getEmployeeName() {
         return employeeName;
     }
