@@ -12,7 +12,6 @@ public class Car {
         this.status = status;
     }
 
-    // Getters and Setters
     public String getName() {
         return name;
     }
