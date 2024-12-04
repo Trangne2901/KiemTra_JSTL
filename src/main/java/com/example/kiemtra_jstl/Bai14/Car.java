@@ -11,7 +11,6 @@ public class Car {
         this.price = price;
         this.status = status;
     }
-
     public String getName() {
         return name;
     }
